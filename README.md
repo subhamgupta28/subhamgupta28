@@ -10,3 +10,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Github](https://github-readme-stats.vercel.app/api?username=subhamgupta28&count_private=true&theme=dark&show_icons=true)](https://github.com/subhamgupta28/github-readme-stats)
+
+### Let's talk <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
+  - [Linkedin](nkedin.com/in/subham-gupta-6726b91b1/)
+
+  
+ 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=subhamgupta28&repo=Loan-Management-App&theme=tokyonight)](https://github.com/subhamgupta28/Loan-Management-App)
+
+
+
+
+![](https://komarev.com/ghpvc/?username=subhamgupta28&color=blue)
