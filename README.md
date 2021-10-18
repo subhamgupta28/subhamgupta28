@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhamgupta28
 - 👀 I’m interested in Android Development, AI, ML, Python Programming, Backend Web Development
-- 🌱 I’m currently learning ML, Javascript
+- 🌱 I’m currently learning ML, Javascript, also working on React apps
 - 💞️ I’m looking to collaborate on Android Development, Web
 - 📫 How to reach me shubhamgupta21020@gmail.com
 
