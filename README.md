@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Let's talk <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
   - [Linkedin](https://www.linkedin.com/in/subham-gupta-6726b91b1/)
+  - [CodeChef](https://www.codechef.com/users/shubh_am_28/)
+  - [HackerRank](https://www.hackerrank.com/shubham2806)
 
   
  
