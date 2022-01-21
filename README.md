@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=subhamgupta28&repo=Loan-Management-App&theme=tokyonight)](https://github.com/subhamgupta28/Loan-Management-App)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=subhamgupta28&repo=AI_Doctor&theme=tokyonight)](https://github.com/subhamgupta28/AI_Doctor)
 
 
 
