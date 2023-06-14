@@ -34,7 +34,7 @@ Tech Stacks
 </p>
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=subhamgupta28&show_icons=true&theme=transparent"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=subhamgupta28&show_icons=true"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamgupta28&layout=compact&hide_progress=true"/>
 
 ![](https://komarev.com/ghpvc/?username=subhamgupta28&color=blue)
