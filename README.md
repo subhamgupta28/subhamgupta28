@@ -26,6 +26,9 @@ Tech Stacks
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 </p>
 
+Badges
+[![An image of @subhamgupta28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhamgupta28)](https://holopin.io/@subhamgupta28)
+
 Github Stats
 ---
 
